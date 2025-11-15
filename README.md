@@ -1,3 +1,15 @@
+# Project Overview
+
+This MVP, developed for Junction 2025 (Nov 14–16), focuses on analysing a company’s MOE (Manual of Operations / internal documentation) and identifying gaps, inconsistencies, and contradictions when compared against relevant regulatory requirements.
+
+The system ingests both regulatory text and the organisation’s internal documents, then uses text-analysis and similarity-based matching to:
+
+- detect which regulatory requirements are covered in the MOE
+- highlight missing or weakly addressed areas
+- surface contradictions between regulation and company documentation
+- provide a structured overview of compliance gaps
+
+The goal of this MVP is to demonstrate how automated document comparison can support compliance teams, auditors, and safety managers by reducing manual review time and making regulatory alignment more transparent.
 # ReguLens
 
 ## Prerequisites
