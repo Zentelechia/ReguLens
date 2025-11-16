@@ -1,3 +1,36 @@
+import './mockTestDoc';
+// Save findings to DocsCollection
+Meteor.methods({
+  async 'findings.save'(docId, findings) {
+    check(docId, String);
+    check(findings, Array);
+    // Recursively sanitize keys in findings
+    function sanitizeKeys(obj) {
+      if (Array.isArray(obj)) {
+        return obj.map(sanitizeKeys);
+      } else if (obj && typeof obj === 'object') {
+        const newObj = {};
+        for (const key in obj) {
+          if (!Object.prototype.hasOwnProperty.call(obj, key)) continue;
+          let newKey = key.replace(/[.$]/g, '_');
+          newObj[newKey] = sanitizeKeys(obj[key]);
+        }
+        return newObj;
+      }
+      return obj;
+    }
+    const sanitizedFindings = sanitizeKeys(findings);
+    // Save findings array to the document with the given docId
+    return await DocsCollection.updateAsync(docId, { $set: { findings: sanitizedFindings, findingsSavedAt: new Date() } });
+  }
+});
+// Fetch a document by ID for DocPage rendering
+Meteor.methods({
+  async 'docs.get'(docId) {
+    check(docId, String);
+    return await DocsCollection.findOneAsync(docId);
+  }
+});
 import { Meteor } from 'meteor/meteor';
 import { check } from 'meteor/check';
 import { LinksCollection } from '/imports/api/links';

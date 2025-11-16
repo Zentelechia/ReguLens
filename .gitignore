@@ -1,2 +1,6 @@
 node_modules/
 .meteor/local/
+
+# Ignore Meteor app internals in frontend
+frontend/node_modules/
+frontend/.meteor/local/

@@ -1,0 +1,188 @@
+Aircraft Maintenance Law Requirements
+
+1. General Requirements
+1.1. All aircraft must undergo a comprehensive inspection every 12 months by certified personnel.
+1.2. Aircraft operated for commercial purposes must be inspected every 6 months.
+1.3. Helicopters require rotor blade checks every 200 flight hours.
+1.4. For aircraft over 10 years old, corrosion inspections are required annually.
+1.5. Only approved parts and materials may be used in repairs.
+1.6. Only personnel with type-specific training may perform engine overhauls.
+1.7. If the aircraft is leased, lessor maintenance requirements must be followed.
+1.8. If the aircraft is exposed to saltwater environments, anti-corrosion treatment is mandatory every 6 months.
+1.9. If the aircraft is used for night flights, lighting systems must be checked monthly.
+1.10. If the aircraft is used for training, dual control systems must be checked weekly.
+
+2. Personnel and Training
+2.1. Personnel must receive annual training on updated safety protocols.
+2.2. All maintenance staff must pass a background check.
+2.3. All maintenance staff must attend a safety briefing every quarter.
+2.4. All maintenance staff must wear appropriate personal protective equipment.
+2.5. All maintenance staff must be familiar with emergency procedures.
+2.6. All maintenance staff must be trained in first aid.
+2.7. All maintenance staff must be trained in hazardous material handling.
+2.8. All maintenance staff must be trained in fire extinguisher use.
+2.9. All maintenance staff must be trained in electrical safety.
+2.10. All maintenance staff must be trained in confined space entry.
+2.11. All maintenance staff must be trained in lockout/tagout procedures.
+2.12. All maintenance staff must be trained in manual handling techniques.
+2.13. All maintenance staff must be trained in the use of personal protective equipment.
+2.14. All maintenance staff must have access to the latest technical publications.
+2.15. If the company has more than 50 employees, a safety committee must be established.
+2.16. If the company operates more than 10 aircraft, a dedicated quality manager is required.
+2.17. If the company has a fleet of more than 20 aircraft, a computerized maintenance tracking system is required.
+
+3. Maintenance Records and Documentation
+3.1. Maintenance records must be updated after each inspection and kept for at least 5 years.
+3.2. Maintenance logs must be signed by the responsible technician.
+3.3. All maintenance procedures must be documented in the company manual.
+3.4. All maintenance data must be backed up electronically.
+3.5. All maintenance records must be available for regulatory inspection at any time.
+3.6. All maintenance manuals must be kept up to date with manufacturer revisions.
+3.7. If the company operates internationally, compliance with ICAO standards is required.
+
+4. Equipment and Tools
+4.1. All maintenance tools must be calibrated every 12 months.
+4.2. Emergency equipment must be checked and replaced if expired.
+4.3. Fire extinguishers must be weighed and inspected quarterly.
+4.4. Cabin air filters must be replaced every 500 flight hours.
+4.5. Battery terminals must be cleaned and inspected every 6 months.
+4.6. Hydraulic fluid levels must be checked before each flight.
+4.7. Tire pressure must be recorded before each flight.
+4.8. Brake pads must be checked for wear every 100 landings.
+4.9. Propeller blades must be inspected for nicks and cracks every 50 hours.
+4.10. Static wicks must be inspected for damage every 100 hours.
+4.11. Pitot-static systems must be checked for blockages every 100 hours.
+4.12. Avionics systems must be tested after any software update.
+4.13. Avionics cooling fans must be checked every 200 hours.
+4.14. Cabin pressure gauges must be calibrated annually.
+4.15. Cabin doors must be checked for proper sealing every 6 months.
+4.16. Cabin windows must be inspected for cracks every 100 hours.
+4.17. Engine mounts must be inspected for cracks every 200 hours.
+4.18. Engine oil must be changed every 50 hours.
+4.19. Engine fire detection systems must be tested every 6 months.
+4.20. Engine vibration analysis must be performed every 500 hours.
+4.21. Fuel tanks must be inspected for contamination every 100 flight hours.
+4.22. Fuel tanks must be drained of water every 50 hours.
+4.23. Fuel filters must be replaced every 300 hours.
+4.24. Fuel quantity indicators must be calibrated annually.
+4.25. Oxygen systems must be serviced every 2 years.
+4.26. Oxygen bottle pressure must be checked before each flight (if high-altitude operations).
+4.27. Oxygen systems must be available for all flights above 10,000 feet (if mountainous regions).
+4.28. De-icing systems must be tested before winter operations.
+4.29. De-icing boots must be inspected before each flight (if arctic conditions).
+4.30. De-icing boots must be checked for cracks before each flight (if cold climates).
+4.31. Anti-icing fluid levels must be checked before each flight (if cold climates).
+4.32. Snow removal equipment must be available (if cold climates).
+4.33. Heated hangar space must be available for overnight storage (if cold climates).
+4.34. Battery heaters must be checked before winter (if extreme temperatures).
+4.35. Fuel additives must be used to prevent freezing (if arctic conditions).
+4.36. Ice scrapers must be available on board (if arctic conditions).
+4.37. Sunshades must be checked for damage monthly (if desert environments).
+4.38. Sand filters must be replaced every 200 hours (if desert environments).
+4.39. Air conditioning systems must be checked monthly (if desert environments).
+4.40. Windshield sunshades must be checked monthly (if desert environments).
+4.41. Dust covers must be used when parked (if desert environments).
+4.42. Drainage holes must be checked monthly (if high rainfall).
+4.43. Drainage system inspections must be performed monthly (if high rainfall).
+4.44. Anti-corrosion spray must be applied monthly (if high rainfall).
+4.45. Insect screens must be checked monthly (if tropical climates).
+4.46. Cabin humidity levels must be monitored (if tropical climates).
+4.47. Cabin fans must be checked before each flight (if tropical climates).
+4.48. Insecticide must be available on board (if tropical climates).
+4.49. Insect repellent must be available on board (if tropical climates).
+4.50. Desiccant packs must be replaced every 3 months (if high humidity).
+4.51. Corrosion prevention measures must be applied quarterly (if high humidity).
+4.52. Air intake screens must be cleaned weekly (if high dust).
+4.53. Air filters must be replaced after exposure (if volcanic ash).
+4.54. Engine inspections must be performed after exposure (if volcanic ash).
+4.55. Air filter replacement must be performed after exposure (if volcanic ash).
+4.56. Pitot-static system inspections must be performed after exposure (if volcanic ash).
+4.57. Engine oil analysis must be performed after exposure (if volcanic ash).
+
+5. Operations and Special Operations
+5.1. Any detected safety issue must be reported and addressed before the next flight.
+5.2. All maintenance discrepancies must be reported within 24 hours.
+5.3. If the aircraft is used for cargo, cargo restraint systems must be checked before each flight.
+5.4. If the aircraft is used for cargo, weight and balance calculations must be verified before each flight.
+5.5. If the aircraft is used for cargo, cargo nets must be inspected before each flight.
+5.6. If the aircraft is used for cargo, cargo doors must be checked for proper sealing before each flight.
+5.7. If the aircraft is used for cargo, cargo straps must be checked for wear before each flight.
+5.8. If the aircraft is used for cargo, cargo bay lighting must be checked before each flight.
+5.9. If the aircraft is used for cargo, cargo tie-downs must be inspected before each flight (if humanitarian missions).
+5.10. If the aircraft is used for cargo, cargo doors must be checked for proper operation before each flight (if humanitarian missions).
+5.11. If the aircraft is used for cargo, cargo storage must comply with regulations (if agricultural spraying).
+5.12. If the aircraft is used for cargo, chemical application logs must be maintained for each flight (if agricultural spraying).
+5.13. If the aircraft is used for cargo, chemical residue must be removed after each use (if agricultural spraying).
+5.14. If the aircraft is used for cargo, nozzle calibration must be performed before each use (if agricultural spraying).
+5.15. If the aircraft is used for cargo, spray systems must be flushed after each use (if agricultural spraying).
+5.16. If the aircraft is used for cargo, chemical spill kits must be available on board (if agricultural spraying).
+5.17. If the aircraft is used for cargo, chemical storage must comply with regulations (if agricultural spraying).
+5.18. If the aircraft is used for cargo, chemical application logs must be maintained for each flight (if agricultural spraying).
+5.19. If the aircraft is used for cargo, chemical residue must be removed after each use (if agricultural spraying).
+5.20. If the aircraft is used for cargo, nozzle calibration must be performed before each use (if agricultural spraying).
+5.21. If the aircraft is used for cargo, spray systems must be flushed after each use (if agricultural spraying).
+5.22. If the aircraft is used for cargo, chemical spill kits must be available on board (if agricultural spraying).
+5.23. If the aircraft is used for cargo, chemical storage must comply with regulations (if agricultural spraying).
+5.24. If the aircraft is used for cargo, chemical application logs must be maintained for each flight (if agricultural spraying).
+5.25. If the aircraft is used for cargo, chemical residue must be removed after each use (if agricultural spraying).
+5.26. If the aircraft is used for cargo, nozzle calibration must be performed before each use (if agricultural spraying).
+5.27. If the aircraft is used for cargo, spray systems must be flushed after each use (if agricultural spraying).
+5.28. If the aircraft is used for cargo, chemical spill kits must be available on board (if agricultural spraying).
+5.29. If the aircraft is used for cargo, chemical storage must comply with regulations (if agricultural spraying).
+5.30. If the aircraft is used for cargo, chemical application logs must be maintained for each flight (if agricultural spraying).
+5.31. If the aircraft is used for cargo, chemical residue must be removed after each use (if agricultural spraying).
+5.32. If the aircraft is used for cargo, nozzle calibration must be performed before each use (if agricultural spraying).
+5.33. If the aircraft is used for cargo, spray systems must be flushed after each use (if agricultural spraying).
+5.34. If the aircraft is used for cargo, chemical spill kits must be available on board (if agricultural spraying).
+5.35. If the aircraft is used for cargo, chemical storage must comply with regulations (if agricultural spraying).
+5.36. If the aircraft is used for cargo, chemical application logs must be maintained for each flight (if agricultural spraying).
+5.37. If the aircraft is used for cargo, chemical residue must be removed after each use (if agricultural spraying).
+5.38. If the aircraft is used for cargo, nozzle calibration must be performed before each use (if agricultural spraying).
+5.39. If the aircraft is used for cargo, spray systems must be flushed after each use (if agricultural spraying).
+5.40. If the aircraft is used for cargo, chemical spill kits must be available on board (if agricultural spraying).
+5.41. If the aircraft is used for cargo, chemical storage must comply with regulations (if agricultural spraying).
+5.42. If the aircraft is used for cargo, chemical application logs must be maintained for each flight (if agricultural spraying).
+5.43. If the aircraft is used for cargo, chemical residue must be removed after each use (if agricultural spraying).
+5.44. If the aircraft is used for cargo, nozzle calibration must be performed before each use (if agricultural spraying).
+5.45. If the aircraft is used for cargo, spray systems must be flushed after each use (if agricultural spraying).
+5.46. If the aircraft is used for cargo, chemical spill kits must be available on board (if agricultural spraying).
+5.47. If the aircraft is used for cargo, chemical storage must comply with regulations (if agricultural spraying).
+5.48. If the aircraft is used for cargo, chemical application logs must be maintained for each flight (if agricultural spraying).
+5.49. If the aircraft is used for cargo, chemical residue must be removed after each use (if agricultural spraying).
+5.50. If the aircraft is used for cargo, nozzle calibration must be performed before each use (if agricultural spraying).
+
+6. Special Equipment and Operations
+6.1. If the aircraft is used for medical evacuation, medical equipment must be checked before each mission.
+6.2. If the aircraft is used for medical evacuation, stretcher mounts must be inspected before each mission.
+6.3. If the aircraft is used for medical evacuation, patient monitoring equipment must be checked before each mission.
+6.4. If the aircraft is used for medical evacuation, patient restraints must be checked before each mission.
+6.5. If the aircraft is used for medical evacuation, IV stands must be checked before each mission.
+6.6. If the aircraft is used for medical evacuation, oxygen masks must be checked before each mission.
+6.7. If the aircraft is used for medical evacuation, defibrillators must be checked before each mission.
+6.8. If the aircraft is used for air ambulance, medical oxygen systems must be checked before each mission.
+6.9. If the aircraft is used for air ambulance, medical supply inventory must be checked before each mission.
+6.10. If the aircraft is used for air ambulance, suction units must be checked before each mission.
+6.11. If the aircraft is used for air ambulance, blankets must be available on board.
+6.12. If the aircraft is used for air ambulance, oxygen masks must be checked before each mission.
+6.13. If the aircraft is used for air ambulance, defibrillators must be checked before each mission.
+6.14. If the aircraft is used for air ambulance, patient monitoring equipment must be checked before each mission.
+6.15. If the aircraft is used for air ambulance, IV stands must be checked before each mission.
+6.16. If the aircraft is used for air ambulance, suction units must be checked before each mission.
+6.17. If the aircraft is used for air ambulance, blankets must be available on board.
+
+7. Appendices
+Appendix A: Definitions
+A.1. "Aircraft" refers to any powered flying vehicle regulated under this law.
+A.2. "Maintenance" means all actions required to ensure airworthiness.
+A.3. "Personnel" includes all staff involved in maintenance, inspection, or repair.
+A.4. "Approved parts" are those certified by the relevant aviation authority.
+A.5. "Company" refers to any organization operating or maintaining aircraft.
+
+Appendix B: References
+B.1. International Civil Aviation Organization (ICAO) Standards
+B.2. Manufacturer Maintenance Manuals
+B.3. National Aviation Authority Regulations
+
+Appendix C: Revision History
+C.1. Version 1.0 – Initial release
+C.2. Version 1.1 – Added special operations and appendix sections

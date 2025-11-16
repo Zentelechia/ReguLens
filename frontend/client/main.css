@@ -1,0 +1,46 @@
+/* Diagonal grid background for main page using junction.png */
+
+
+.main-bg-diagonal::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url('/junction.png');
+  background-size: 60px 60px;
+  background-repeat: repeat;
+  background-position: -200 -200;
+  opacity: 0.12;
+  pointer-events: none;
+  transform: rotate(-25deg) scale(2);
+  z-index: 0;
+}
+
+.main-bg-diagonal > * {
+  position: relative;
+  z-index: 1;
+}
+
+
+
+body.main-bg-diagdonal::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url('/junction.png');
+  background-size: 60px 60px;
+  background-repeat: repeat;
+  background-position: 0 0;
+  opacity: 0.12;
+  pointer-events: none;
+  transform: rotate(-25deg) scale(1.2);
+  z-index: 0;
+}
+
+body.main-bg-diagonal > #react-target {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,504 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6029
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 790.8663779527558972 Td
+(Findings Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+39.6850393700787407 756.8506299212598378 Td
+(1. Missing Competence Assessment Details) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 737.0081102362204319 Td
+(Type: Missing requirement) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 720.0002362204724022 Td
+(Comment: The MOE does not describe competence assessment intervals or criteria.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 702.9923622047243725 Td
+(Description: Part-145.A.30\(e\) requires defined competence assessment procedures, including intervals, responsible personnel, and record-keeping. The manual does not mention assessment frequency or process steps.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 685.9844881889763428 Td
+(Text position: 18930, Length: 300) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+39.6850393700787407 657.6380314960629221 Td
+(2. Contradiction in Certification Responsibilities) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 637.7955118110235162 Td
+(Type: Contradicting statements) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 620.7876377952754865 Td
+(Comment: Certification responsibilities are assigned inconsistently across sections.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 603.7797637795274568 Td
+(Description: Section 2.3 lists the Quality Manager as responsible for release-to-service verification, while Section 5.1 assigns this responsibility to the Line Maintenance Manager. Only authorised certifying staff may perform these functions per 145.A.50.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 586.7718897637794271 Td
+(Text position: 37860, Length: 250) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+39.6850393700787407 558.42543307086612 Td
+(3. Outdated Regulatory Reference) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 538.5829133858267141 Td
+(Type: Outdated references) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 521.5750393700786844 Td
+(Comment: Document refers to an older version of Part-145 \(Amendment 2018\).) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 504.5671653543306547 Td
+(Description: The MOE cites Part-145 Amendment 2018, while the current regulation requires referencing the consolidated EASA Easy Access Rules Part-145 \(latest edition\).) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 487.559291338582625 Td
+(Text position: 56790, Length: 120) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+39.6850393700787407 459.2128346456692611 Td
+(4. Incorrect Interval for Training) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 439.3703149606298552 Td
+(Type: Wrong interval/time limits) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 422.3624409448818255 Td
+(Comment: Training is listed as 'every 5 years'.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 405.3545669291337958 Td
+(Description: AMC1 145.A.30\(e\) requires competence reassessment at intervals not exceeding 3 years. Stating a 5-year interval violates the maximum acceptable period.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 388.3466929133857661 Td
+(Text position: 75720, Length: 180) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+39.6850393700787407 360.0002362204724022 Td
+(5. Missing Role Definition for Safety Manager) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 340.1577165354329964 Td
+(Type: Missing roles/responsibilities) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 323.1498425196849666 Td
+(Comment: The MOE mentions the Safety Manager role but does not define duties or authority.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 306.1419685039369369 Td
+(Description: Part-145 requires clearly defined responsibilities for each management role. The Safety Manager position is named but lacks a description of functions and authority.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 289.1340944881889072 Td
+(Text position: 94650, Length: 210) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+39.6850393700787407 260.7876377952754865 Td
+(6. Incorrect Maintenance Release Process Flow) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 240.9451181102361943 Td
+(Type: Incorrect process sequence) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 223.9372440944881646 Td
+(Comment: The documented workflow skips airworthiness review steps.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 206.9293700787401349 Td
+(Description: The MOE sequence shows certifying staff signing CRS before the final inspection stage. Per 145.A.50, release-to-service must occur only after all maintenance actions are verified.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 189.9214960629919915 Td
+(Text position: 113580, Length: 160) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0 g
+39.6850393700787407 161.5750393700786844 Td
+(7. Insufficient Evidence for Record Keeping) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 141.7325196850392786 Td
+(Type: Insufficient evidence) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 124.7246456692912489 Td
+(Comment: Record retention details lack supporting documentation.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 107.7167716535432191 Td
+(Description: Part-145.A.55 requires defined retention methods, storage locations, and minimum retention periods. The MOE states that records are stored 'electronically' without specifying the system, access controls, or backup strategy.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+39.6850393700787407 90.7088976377951894 Td
+(Text position: 132510, Length: 190) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 24
+>>
+stream
+0.5670000000000001 w
+0 G
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.3)
+/CreationDate (D:20251115130759+02'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000006444 00000 n 
+0000008269 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006233 00000 n 
+0000006370 00000 n 
+0000006507 00000 n 
+0000006632 00000 n 
+0000006762 00000 n 
+0000006895 00000 n 
+0000007033 00000 n 
+0000007157 00000 n 
+0000007286 00000 n 
+0000007418 00000 n 
+0000007554 00000 n 
+0000007682 00000 n 
+0000007809 00000 n 
+0000007938 00000 n 
+0000008071 00000 n 
+0000008173 00000 n 
+0000008519 00000 n 
+0000008605 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <4005EAA0D1A7150369B26B9F45BEB170> <4005EAA0D1A7150369B26B9F45BEB170> ]
+>>
+startxref
+8709
+%%EOF
